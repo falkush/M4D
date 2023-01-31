@@ -4,10 +4,10 @@ Maze in 4D
 # Demo
 https://www.youtube.com/watch?v=5FEl-WXOe4o
 
-#Disclaimer
+# Disclaimer
 This code has not been debugged, use at your own risk! It recenters the mouse cursor in the center of the screen at each frame for rotations. Please save your files before running this as you might need to restart your computer if it bugs.
 
-#Controls
+# Controls
 w:go foward
 s:go backward
 a:go left
