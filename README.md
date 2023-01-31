@@ -8,35 +8,35 @@ https://www.youtube.com/watch?v=5FEl-WXOe4o
 This code has not been debugged, use at your own risk! It recenters the mouse cursor in the center of the screen at each frame for rotations. Please save your files before running this as you might need to restart your computer if it bugs.
 
 # Controls
-w:go foward
+w: go foward
 
-s:go backward
+s: go backward
 
-a:go left
+a: go left
 
-d:go right
+d: go right
 
-r:go up
+r: go up
 
-f:go down
+f: go down
 
-q:go "up" 4th axis
+q: go "up" 4th axis
 
-e:go "down" 4th axis
+e: go "down" 4th axis
 
 
-t:reset camera orientation
+t: reset camera orientation
 
-g:reset camera orientation+position
+g: reset camera orientation+position
 
 
 hold button + move mouse up and down
 
-z:rotation x and w
+z: rotation x and w
 
-x:rotation y and z
+x: rotation y and z
 
-c:rotation y and w
+c: rotation y and w
 
-v:rotation z and w
+v: rotation z and w
 
